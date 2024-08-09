@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { ThemeProvider } from 'styled-components'
-import {lightTheme, SpaceTheme} from './Themes';
+import {SpaceTheme} from './Themes';
 import { Design, Develope} from './AllSvgs';
 
 

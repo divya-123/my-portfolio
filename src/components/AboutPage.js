@@ -1,14 +1,11 @@
 import React from 'react'
 import styled, { keyframes, ThemeProvider } from 'styled-components'
-import {DarkTheme, SpaceTheme} from './Themes';
-
-
+import {SpaceTheme} from './Themes';
 import LogoComponent from '../subComponents/LogoComponent';
 import SocialIcons from '../subComponents/SocialIcons';
 import PowerButton from '../subComponents/PowerButton';
 import ParticleComponent from '../subComponents/ParticleComponent';
 import BigTitle from '../subComponents/BigTitlte'
-import astronaut from '../assets/Images/spaceman.png'
 import girlcoder from '../assets/Images/girlcoder.png';
 import girldancer from '../assets/Images/dancer.png';
 import girlplayer from '../assets/Images/badminton-player.png'
